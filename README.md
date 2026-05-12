@@ -266,10 +266,10 @@ WHERE (new record OR attributes changed)
 *Visual representation of job task dependencies and execution flow*
 
 ### Alerts & Notification
-![Job Run Details](Novacart_Images/Novacart_Email_Notification.png.png)
+![Job Notification](Novacart_Images/Novacart_Email_Notification.png)
 *Databricks Job execution success notification*
 
-![Job Run Graph](Novacart_Images/Novacart_Alert.png)
+![Job Alert](Novacart_Images/Novacart_Alert.png)
 *Databrics Alert*
 
 ---
