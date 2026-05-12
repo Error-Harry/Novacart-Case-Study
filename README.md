@@ -270,7 +270,7 @@ WHERE (new record OR attributes changed)
 *Databricks Job execution success notification*
 
 ![Job Alert](Novacart_Images/Novacart_Alert.png)
-*Databrics Alert*
+*Databricks Alert*
 
 ---
 
